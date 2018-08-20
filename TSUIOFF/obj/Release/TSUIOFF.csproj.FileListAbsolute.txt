@@ -1,0 +1,7 @@
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\bin\Release\TSUIOFF.exe.config
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\bin\Release\TSUIOFF.exe
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\bin\Release\TSUIOFF.pdb
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\obj\Release\TSUIOFF.csprojAssemblyReference.cache
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\obj\Release\TSUIOFF.csproj.CoreCompileInputs.cache
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\obj\Release\TSUIOFF.exe
+C:\Users\jgeat\source\repos\TSUIOFF\TSUIOFF\obj\Release\TSUIOFF.pdb
